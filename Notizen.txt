@@ -1,0 +1,7 @@
+﻿
+
+
+def/cargo/%Frachtname%.sui
+- enthält den Parameter group[]
+- Zuordnung darüber sollte möglich sein
+
